@@ -1,5 +1,9 @@
-### Hi there 👋
-My name is Soundarya Chandra Mohan
+### Hello, I'm Soundarya! 👋
+Step into my portfolio, where I, a student and former data consultant, showcase projects spanning diverse disciplines for both academic and hobby exploration. This collection represents my ongoing learning journey.
+
+Please note: The data utilized in these projects is sourced from publicly accessible outlets and is purely for demonstration purposes.
+
+As I'm in the initial phases of constructing my portfolio, the current listing features a handful of projects. I'll continue to update and expand it as I complete more projects in the future.
 <!--
 **SoundaryaChandraMohan/SoundaryaChandraMohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
