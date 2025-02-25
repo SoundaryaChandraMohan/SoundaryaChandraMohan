@@ -1,5 +1,5 @@
 ### Hello, I'm Soundarya! 👋
-Step into my portfolio, where I, a student and former data consultant, showcase projects spanning diverse disciplines for both academic and hobby exploration. This collection represents my ongoing learning journey.
+Step into my portfolio, where I, a student and former data specialist, showcase projects spanning diverse disciplines for both academic and hobby exploration. This collection represents my ongoing learning journey.
 
 Please note: The data utilized in these projects is sourced from publicly accessible outlets and is purely for demonstration purposes.
 
